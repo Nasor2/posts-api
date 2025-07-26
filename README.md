@@ -133,7 +133,7 @@ docker compose ps
 ```
 
 4. Access the API:
-The Spring Boot API should now be fully operational and accessible at http://localhost:8080/swagger-ui/index.html#/.
+The Spring Boot API should now be fully operational and accessible at http://localhost:8080.
 
 ### 4. Stopping the Application
 To stop and remove the containers (and the associated Docker network) while preserving the data in your named volumes (postgres_data, redis_data):
