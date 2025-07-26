@@ -1,4 +1,4 @@
-# Posts API ✨
+# Posts API
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=spring)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java)
